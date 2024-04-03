@@ -1,13 +1,15 @@
 <h1 align='center'>
-  What's poppin, names Dylan! // [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+  What's poppin, names Dylan!
 </h1>
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 <p align='center'>
   <a href="https://steamcommunity.com/id/ImKringle/">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.twitch.tv/Imkringle/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>&nbsp;&nbsp;
     <a href="https://open.spotify.com/user/31nz3pd5qb32cxkd6u3spfgfnnvm?si=30334550b1e9415b/">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
@@ -25,9 +27,6 @@
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%203060TI-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
-
-[![Kringles's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ImKringle&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![Kringles's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
