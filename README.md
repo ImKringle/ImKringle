@@ -2,8 +2,6 @@
   What's poppin, names Dylan!
 </h1>
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-
 <p align='center'>
   <a href="https://steamcommunity.com/id/ImKringle/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />        
