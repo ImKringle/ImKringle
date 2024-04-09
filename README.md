@@ -1,16 +1,16 @@
 <h1 align='center'>
   What's poppin, names Dylan!
 </h1>
-
+  
 <p align='center'>
   <a href="https://steamcommunity.com/id/ImKringle/">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />        
+    <img alt="steam" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/steam_vector.svg" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.twitch.tv/Imkringle/">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+    <img alt="twitch-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitch-singular_vector.svg" />
   </a>&nbsp;&nbsp;
     <a href="https://open.spotify.com/user/31nz3pd5qb32cxkd6u3spfgfnnvm?si=30334550b1e9415b/">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+    <img alt="spotify" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/spotify_vector.svg" />
   </a>&nbsp;&nbsp;
 </p>
 
@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%203060TI-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
+<p align='center'>
+  <img alt="banner" height="" width="" src="https://media1.tenor.com/m/dnfJcln1SwoAAAAC/luffy-bruh.gif" />
 
 
 
