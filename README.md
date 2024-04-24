@@ -9,7 +9,7 @@
   <a href="https://www.twitch.tv/Imkringle/">
     <img alt="twitch-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitch-singular_vector.svg" />
   </a>&nbsp;&nbsp;
-    <a href="https://open.spotify.com/user/31nz3pd5qb32cxkd6u3spfgfnnvm?si=30334550b1e9415b/">
+    <a href="https://open.spotify.com/user/31ltk7jf34okug2hm3aruiqcj4dm?si=b91d6f93ee484988/">
     <img alt="spotify" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/spotify_vector.svg" />
   </a>&nbsp;&nbsp;
 </p>
